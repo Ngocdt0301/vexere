@@ -1,0 +1,496 @@
+{
+  "trips": [
+    {
+      "busHouseId": "3",
+      "startTime": "2024-04-03T12:15",
+      "fromStation": "Hà Nội",
+      "toStation": "Nghệ An",
+      "station": "Bến xe Giáp Bát",
+      "seats": "10",
+      "price": "200000",
+      "id": "3",
+      "phone": "0987654321",
+      "name": ""
+    },
+    {
+      "id": "863c",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "de5c",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "c192",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "09f2",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "25a0",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "9bc4",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "9063",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "2a4a",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "b46c",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "0f0a",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "153a",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "d2dc",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "2772",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "11b0",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "3236",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "bd27",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "257c",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "07b2",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "1d3c",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "6a74",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "bf6d",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "a8cf",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "0e71",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "c3ea",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "08f6",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "430d",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "b289",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "5937",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "36ae",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "70a5",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "2466",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "ec3c",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "e0fc",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "91da",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "23d8",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "fb52",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "91c9",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "b78d",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "747d",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    },
+    {
+      "id": "9fe0",
+      "name": "1",
+      "startTime": "2024-04-10T12:30",
+      "seats": "15",
+      "price": "5000",
+      "station": "Bến xe Mỹ Đình",
+      "toStation": "Hai Phong",
+      "fromStation": "Ha Noi"
+    }
+  ],
+  "stations": [
+    {
+      "id": "1",
+      "name": "Bến xe Mỹ Đình",
+      "province": "Hà Nội"
+    },
+    {
+      "id": "2",
+      "name": "Bến xe Giáp Bát",
+      "province": "Hà Nội"
+    },
+    {
+      "id": "3",
+      "name": "Bến Vĩnh Niệm",
+      "province": "Hải Phòng"
+    },
+    {
+      "id": "4",
+      "name": "Bến xe Thượng Lý",
+      "province": "Hải Phòng"
+    }
+  ],
+  "busHouses": [
+    {
+      "id": "1",
+      "name": "Hải Phòng Travel (Đất Cảng)",
+      "adress": "Hải Phòng",
+      "phone": "0987654321"
+    },
+    {
+      "id": "2",
+      "name": "Hoàng Phú Limousine",
+      "adress": "Hải Phòng",
+      "phone": "0987654321"
+    },
+    {
+      "id": "3",
+      "name": "Anh Huy (Hải Phòng)",
+      "adress": "Hải Phòng",
+      "phone": "0987654321"
+    }
+  ],
+  "users": [
+    {
+      "email": "ngocdotien@gmail.com",
+      "password": "$2a$10$ON5AXlFsQ9r2Ti/Hy8aBV.dns3M91liKBLmXgiyuazeq2Sj7tYKV.",
+      "confirmPassword": "123456",
+      "firstName": "",
+      "lastName": "",
+      "phoneNumber": "",
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
